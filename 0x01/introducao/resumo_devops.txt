@@ -1,0 +1,54 @@
+O que é DevOps ? Quais beneficios em adotar DevOps nas empresas ?
+
+O DevOps é um conjunto de práticas que automatiza os processos entre o desenvolvimento
+ de software e as equipes de TI, para poderem assim criar,
+ testar e liberar software de maneira mais rápida e confiável.
+ Quebra de barreiras e silos dentro do departamento de TI
+Redução dos processos envolvidos no desenvolvimento de sistemas
+Menor tempo de colocação no mercado dos sistemas desenvolvidos
+Colaboração aprimorada entre desenvolvedores e operações, que resulta em produtos e serviços de alta qualidade
+Menor tempo na resolução de problemas e correção de bugs e vulnerabilidades
+Vantagem competitiva em relação às empresas que utilizam metodologias de desenvolvimento mais longas e tradicionais
+Capacidade de gerenciar melhor o trabalho não planejado.
+
+
+Quais são os pilares da cultura DevOps ? O que é CALMS ?
+
+Foco nas pessoas e em como elas pensam
+Adesão de uma cultura da experimentação
+Promoção de uma cultura de integração entre desenvolvimento e operações
+Responsabilidade compartilhada entre equipes
+Blameless: adesão de uma cultura livre de culpa por erros nos processos
+Cada letra do CALMS representa uma questão que deve ser trabalhada na sua Software House.
+ Por isso, é fundamental que você entenda não só o que elas representam, mas também sua importância no processo de implementação. 
+
+
+O que faz um Engenheiro DevOps ?
+
+ introduz processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo
+ de vida do desenvolvimento de um software, desde a criação do código e a
+ implantação até as etapas de manutenção e atualização.
+
+
+O que é DevSecOps?
+
+ É uma abordagem à cultura, automação e design da plataforma que integra segurança como uma
+ responsabilidade compartilhada em todo o ciclo de vida da TI.
+
+ 
+Principais ferramentas OpenSource para DevOps
+
+Gitlab; 
+Puppet; 
+Ansible; 
+Jenkins; 
+Vagrant; 
+oVirt; 
+Docker; 
+Zabbix;
+
+
+O que é CI/CD: integração e entrega contínuas ?
+
+CI/CD designa respectivamente Continuous Integration e Continuous Delivery traduzindo: Integração Contínua e Entrega Contínua.
+Ambas as siglas designam processos e técnicas modernas para tornar o processo de desenvolvimento, teste e entrega de ferramentas mais ágil e eficiente.
